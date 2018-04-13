@@ -100,21 +100,3 @@ During the outage the cluster operations should continue.
 https://raft.gihub.io  
 https://arangodb.com/why-arangodb/cluster  
 https://arangodb.com/why-arangodb/arangodb-enterprise/arangodb-enterprise-datacenter-datacenter-replication  
-
-## What's next
-
-The next session will deal with details of 
-
-### Part 2:
-
- * authetication
- * deploymentsn Cloud infrastructure with kubernetes, DC/OS 
- * Troubleshooting data loss 
- * Backup & Restore
- * Resharding data
- * Enterprise features 
-
-### Part 3:
-
- * DC2DC cluster mirroring across data centers
-

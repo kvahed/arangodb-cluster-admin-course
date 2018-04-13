@@ -11,3 +11,16 @@ Notes and command lines used during the course.
  * Deployment using the starter
  * Resilience
  
+## Part 2 (may 2018)
+
+ * Authentication
+ * Deployments in Cloud infrastructure with kubernetes, DC/OS 
+ * Troubleshooting & data loss 
+ * Backup & Restore
+ * Resharding data
+ * Enterprise features 
+
+## Part 3 (june 2018)
+
+ * DC2DC cluster mirroring across data centers
+
