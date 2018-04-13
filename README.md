@@ -1,7 +1,7 @@
 # arangodb-cluster-admin-course
 Arangodb cluster administration course 
 
-## Part one
+## [Part one](part-one.md)
 
  * Cluster's anatomy
    * Agents
