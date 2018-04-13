@@ -78,8 +78,8 @@ One of the agents will stand out by having a populated
     }
     
 Under authentication regime, you'd have to access the agency with the
-additional `-H"Authorization: bearer $(jwtgen -a HS256 -c iss=arangodb
--c server_id=startup -s <secret>)"`
+additional curl headers `-H"Authorization: bearer $(jwtgen -a HS256 -c
+iss=arangodb -c server_id=startup -s <secret>)"` 
     
 ### Resilience
 
