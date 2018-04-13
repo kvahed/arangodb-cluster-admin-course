@@ -92,11 +92,9 @@ During the outage the cluster operations should continue.
 
 ## References
 
-https://raft.gihub.io
-
-https://arangodb.com/why-arangodb/cluster
-
-https://arangodb.com/why-arangodb/arangodb-enterprise/arangodb-enterprise-datacenter-datacenter-replication
+https://raft.gihub.io  
+https://arangodb.com/why-arangodb/cluster  
+https://arangodb.com/why-arangodb/arangodb-enterprise/arangodb-enterprise-datacenter-datacenter-replication  
 
 ## What's next
 
