@@ -10,7 +10,8 @@
 Install arangodb 3.3.7 on all machines
 
     a1,a2,a3
-      echo 'deb https://download.arangodb.com/arangodb33/xUbuntu_17.04/ /' | sudo tee /etc/apt/sources.list.d/arangodb.list
+      echo 'deb https://download.arangodb.com/arangodb33/xUbuntu_17.04/ /' | \
+      sudo tee /etc/apt/sources.list.d/arangodb.list
       sudo apt-get install apt-transport-https
       sudo apt-get update
       sudo apt-get install arangodb3=3.3.73#
