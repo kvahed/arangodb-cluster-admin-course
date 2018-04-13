@@ -1,5 +1,6 @@
-# arangodb-cluster-admin-course
-Arangodb cluster administration course 
+# ArangoDB cluster administartion course
+
+Notes and command lines used during the course.
 
 ## [Part one](part-one.md)
 
