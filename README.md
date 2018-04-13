@@ -12,7 +12,7 @@ Notes and command lines used during the course.
  
 ## Part 2 (may 2018)
  * Authentication
- * Deployments in Cloud infrastructure with kubernetes, DC/OS 
+ * Deployments in cloud infrastructure with Kubernetes, DC/OS 
  * Troubleshooting & data loss 
  * Backup & Restore
  * Resharding data
