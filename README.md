@@ -15,9 +15,15 @@ Notes and command lines used during the course.
  * Troubleshooting & data loss
  * Backup & Restore
  * Resharding data
- *
- 
+
 ## [Part three](part-three.md)
+ * Cloud orchestration
+  * Kubernetes basics
+  * ArangoDB database operator
+  * ArangoDB storage operator  
+  * Resizing
+  * Upgrading
+  * Package management with helm
 
 ## Part 3 (Oct 2018)
  * DC2DC cluster mirroring across data centers
