@@ -199,7 +199,13 @@
   * `kubeadm join kube01:6443 --token <your-token> --discovery-token-ca-cert-hash sha256:<your-sha256>`
 * Et voila I have a Kubernetes cluster
 
-* `kubectl apply -f local-storage-class.yaml`
+## The good old way
+* kubectl apply -f https://raw.githubusercontent.com/arangodb/kube-arangodb/0.3.0/manifests/crd.yaml
+* kubectl apply -f https://raw.githubusercontent.com/arangodb/kube-arangodb/0.3.0/manifests/arango-deployment.yaml
+* kubectl apply -f https://raw.githubusercontent.com/arangodb/kube-arangodb/0.3.0/manifests/arango-storage.yaml
+* kubectl apply -f
+https://raw.githubusercontent.com/arangodb/kube-arangodb/0.3.0/manifests/arango-deployment-replication.yaml
 
+## The new way
 * `helm install https://github.com/arangodb/kube-arangodb/releases/download/0.3.0/kube-arangodb.tgz`
 * `helm install https://github.com/arangodb/kube-arangodb/releases/download/0.3.0/kube-arangodb-storage.tgz`
