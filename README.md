@@ -1,4 +1,4 @@
-# ArangoDB cluster administartion course
+# ArangoDB cluster administration course
 
 Notes and command lines used during the course.
 
